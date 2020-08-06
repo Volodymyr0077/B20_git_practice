@@ -3,7 +3,7 @@ package util;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Remove_all_nums_array_list {//this line is from git hub
+public class Remove_all_nums_array_list {//Mrkian____markian
     public static ArrayList<String> remove_numbers(ArrayList<String>list){
 
         System.out.println(list);
